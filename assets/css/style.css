@@ -7,7 +7,7 @@ body {background: #dddddd;
 
 .navbar-header a { color: #ffffff;
 				   background: #4aaaa5;
-					font-size: 50px;
+					font-size: 40px;
 					padding:40px; }
 #title { color:white;}
 	/*font-family: 'Raleway', sans-serif;}*/
@@ -29,6 +29,7 @@ h2, h3{ font-family: 'Raleway', sans-serif;
 #aside{background: #ffffff;
 		padding: 20px;
 		margin-bottom:100px;
+		margin-left:40px;
 		border:1px solid #cccccc;}
 
 #footer {  background: #666666;
