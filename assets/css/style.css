@@ -1,1 +1,11 @@
-/*nav { height: 100px; }*/
+body {background: #dddddd;}
+
+#article{ background: #ffffff; 
+			margin-bottom:10px;}
+#aside{background: #ffffff;
+		padding: 20px;
+		margin-bottom:30px;
+	}
+
+#footer {  background: #ffffff;
+		padding: 20px;}
