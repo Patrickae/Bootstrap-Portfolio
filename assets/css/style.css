@@ -1,11 +1,39 @@
-body {background: #dddddd;}
+body {background: #dddddd;
+	font-family: 'Josefin Slab', serif;}
+
+#navbar-header{ border-bottom: 5px solid #cccccc;
+				padding-top:20px; 
+			font-family: 'Raleway', sans-serif;}
+
+.navbar-header a { color: #ffffff;
+				   background: #4aaaa5;
+					font-size: 50px;
+					padding:40px; }
+#title { color:white;}
+	/*font-family: 'Raleway', sans-serif;}*/
+
+#title:hover{color:#4aaaa5;}
+
+
+h2, h3{ font-family: 'Raleway', sans-serif;
+		color: #4aaaa5; }
 
 #article{ background: #ffffff; 
-			margin-bottom:10px;}
+			margin-bottom:100px;
+			border:1px solid #cccccc;
+			font-size:20px;
+			line-height:30px;}
+
+#indexPhoto{ margin: 0 10px 10px 0; }
+
 #aside{background: #ffffff;
 		padding: 20px;
-		margin-bottom:30px;
-	}
+		margin-bottom:100px;
+		border:1px solid #cccccc;}
 
-#footer {  background: #ffffff;
-		padding: 20px;}
+#footer {  background: #666666;
+		padding: 20px;
+		border-top: 5px solid #4aaaa5;
+		color:#ffffff;}
+
+#inputMessage{ height: 200px; }
